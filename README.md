@@ -1,5 +1,5 @@
-# HealthCare
-**Using Data Analytics to Predict Hospital Readmissions**
+
+# Using Data Analytics to Predict Hospital Readmissions
 
 **1. Project Overview
 Objective:**
