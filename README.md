@@ -1,4 +1,4 @@
-# Using-Data-Analysis-to-predict-hospital-ereadmissions
+# Using-Data-Analysis-to-Predict-Hospital-Readmissions
 This report provides a comprehensive overview of the analysis conducted to predict hospital readmissions using healthcare data. The project involved data preprocessing, exploratory data analysis, model building, evaluation, and feature importance analysis. Below is a structured summary, including methodologies, results, and recommendations.
 
 # To predict hospital readmissions using patient data, with the goal of identifying factors that contribute to readmissions and providing actionable insights for reducing them.
