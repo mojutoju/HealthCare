@@ -100,10 +100,14 @@ rf_eval = evaluate_model(y_test, rf.predict(X_test), "Random Forest")
 Key Findings:
 The top features impacting readmissions were identified using Random Forest’s feature_importances_.
 Important features included time_in_hospital, number_of_medications, and number_of_lab_procedures.
+
 Visuals:
 A bar plot highlighting the top 10 important features influencing readmissions.
-**
-Code Snippet:**
+
+![Figure_4](https://github.com/user-attachments/assets/354e9bb2-4364-4037-a30f-37da8ef95604)
+
+
+**Code Snippet:**
 # Plotting top feature importance
 plt.figure(figsize=(12, 8))
 sns.barplot(x='Importance', y='Feature', data=feature_importance_df.head(10))
