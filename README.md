@@ -1,6 +1,6 @@
 
-# Using Data Analytics to Predict Hospital Readmissions
-To predict hospital readmissions using patient data, with the goal of identifying factors that contribute to readmissions and providing actionable insights for reducing them.
+
+# To predict hospital readmissions using patient data, with the goal of identifying factors that contribute to readmissions and providing actionable insights for reducing them.
 
 **Data Sources:**
 Primary Dataset: **diabetic_data.csv** containing patient information.
