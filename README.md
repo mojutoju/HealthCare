@@ -1,9 +1,9 @@
 
 # Using Data Analytics to Predict Hospital Readmissions
 
-**1. Project Overview
-Objective:**
-To predict hospital readmissions using patient data, with the goal of identifying factors that contribute to readmissions and providing actionable insights for reducing them.
+# Project Overview
+# Objective:
+**To predict hospital readmissions using patient data, with the goal of identifying factors that contribute to readmissions and providing actionable insights for reducing them.**
 
 **Data Sources:**
 Primary Dataset: **diabetic_data.csv** containing patient information.
@@ -14,10 +14,9 @@ Steps:
 Handling Missing Values: Checked for missing data, which was minimal and did not significantly impact the analysis.
 Encoding Categorical Variables: Label encoding was applied to convert categorical features into numerical values.
 Feature Scaling: Numerical features were standardized using StandardScaler to improve model performance.
-**
-Code Snippet:**
-from sklearn.preprocessing import LabelEncoder, StandardScaler
 
+**Code Snippet:**
+from sklearn.preprocessing import LabelEncoder, StandardScaler
 # Encoding categorical variables
 label_encoders = {}
 for col in categorical_columns:
