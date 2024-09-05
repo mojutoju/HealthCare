@@ -2,7 +2,7 @@
 
 # To predict hospital readmissions using patient data, with the goal of identifying factors that contribute to readmissions and providing actionable insights for reducing them.
 
-**Data Sources:**
+**1. Data Sources:**
 Primary Dataset: **diabetic_data.csv** containing patient information.
 Supplementary Dataset: **IDS_mapping.csv,** though not directly used in modeling.
 
